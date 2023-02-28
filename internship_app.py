@@ -39,4 +39,4 @@ ax.set_title('Pie Chart')
 st.pyplot(fig)
 
 
-fs.inotify.max_user_instances = 1100000
+
