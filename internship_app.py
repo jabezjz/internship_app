@@ -37,3 +37,6 @@ ax.set_title('Pie Chart')
 
 # Display the plot in Streamlit
 st.pyplot(fig)
+
+
+fs.inotify.max_user_instances = 1100000
